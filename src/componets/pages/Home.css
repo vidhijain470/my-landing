@@ -34,9 +34,11 @@
     margin-left: 70px;
  
 }
-#title{
-    font-weight: 900;
+.title{
+    line-height: 0.8;
+    font-weight: 800;
 }
+
 /* .learnMore {
     padding: 12px 28px;
     border-radius: 50%;

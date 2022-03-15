@@ -16,8 +16,8 @@ function Home () {
        <div class = "info">
 
            <div id="title">
-           <h1 ><p>Help Us In Tracking</p>
-           <p > Illegal Drugs</p></h1>
+           <b><h1 ><p class="title">Help Us In Tracking</p>
+           <p class="title"> Illegal Drugs</p></h1></b>
 
            </div>
 

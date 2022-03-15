@@ -20,7 +20,7 @@ function Navbar () {
         </li>
         
             <li class="nav-item">
-          <a class="nav-link active btn me-2 " aria-current="page" href="#" >Login</a>
+          <a class="nav-link active btn me-2  " aria-current="page" href="#" >Login</a>
         </li>
         
            
