@@ -1,0 +1,12 @@
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  /* .nav-border {
+    border-radius: 30px;    
+    } */
+    .btn{
+        border-radius: 0;
+   
+    }
