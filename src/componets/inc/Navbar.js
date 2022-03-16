@@ -99,8 +99,8 @@ function Navbar () {
             <li class="nav-item bg-light poo">
                     <a class="nav-link active  " aria-current="page" href="#">Login</a>
                 </li>
-                <li class="nav-item dropdown">
-                   <a class="nav-link dropdown-toggle poo " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">  Sign Up  </a>
+                <li class="nav-item dropdown poo dd">
+                   <a class="nav-link dropdown-toggle  " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">  Sign Up  </a>
                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#">Manufacturer</a></li>
                         <li>
