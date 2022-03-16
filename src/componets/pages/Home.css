@@ -64,8 +64,11 @@ button {
     overflow: hidden;
     background: lightblue;
     color: ghostwhite;
+    
    }
-   
+   .but{
+    border-radius: 500px;
+   }
    button span {
     position: relative;
     z-index: 10;

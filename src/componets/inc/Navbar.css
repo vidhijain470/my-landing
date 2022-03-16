@@ -3,13 +3,7 @@
     padding-right:30px;
   }
 
-  /* .nav-border {
-    border-radius: 30px;    
-    } */
-    .btn{
-        border-radius: 0;
-   
-    }
+  
     .poo {
       border: 2px solid black;
      border-width: 0.01em;

@@ -29,7 +29,7 @@ function Home () {
              and monitored for abnormal sales</p>
              {/* <button class="learnMore">Learn more</button> */}
              
-             <button> <span>Learn more</span>
+             <button class="but"> <span>Learn more</span>
              </button>
 
        </div>
